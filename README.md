@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/V1eBRrG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/57zBQFN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 **Twitter Clone* is a basic twitter app to read your tweets.
 
 Time spent: **4** hours spent in total
